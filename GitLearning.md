@@ -23,8 +23,11 @@
 
 解决`issue`后进行关闭
 
-## 仓库页面
+## github页面
 ![截图_20240314095159](https://github.com/lihao0101/-Git/assets/44457060/0d27d4fe-7f8b-4310-a9eb-040c82bf5263)
+
+![截图_20240314102456](https://github.com/lihao0101/-Git/assets/44457060/076ef9e6-e29a-4a2d-a2fa-943e2acf3815)
+
 
 ## 实战操作
 这里不做解释，实践出现问题建议返回第五集
