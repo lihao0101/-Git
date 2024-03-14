@@ -32,7 +32,8 @@
 ![截图_20240314102810](https://github.com/lihao0101/-Git/assets/44457060/d3a3db4a-4e78-4ea1-9b7a-a594290c16bc)
 ## 上传文件
 ![截图_20240314104950](https://github.com/lihao0101/-Git/assets/44457060/e3d5a3b0-2cd9-4df8-836c-b6fc4b94fad8)
-
+## 创建issue
+![截图_20240314111023](https://github.com/lihao0101/-Git/assets/44457060/158659d9-aa98-49e5-82da-e80f2d96f0e7)
 
 ## 实战操作
 这里不做解释，实践出现问题建议返回第五集
