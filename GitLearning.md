@@ -23,12 +23,15 @@
 
 解决`issue`后进行关闭
 
-## github页面
+## github页面 项目页面
+
 ![截图_20240314095159](https://github.com/lihao0101/-Git/assets/44457060/0d27d4fe-7f8b-4310-a9eb-040c82bf5263)
-
+## 创建文件
 ![截图_20240314102456](https://github.com/lihao0101/-Git/assets/44457060/076ef9e6-e29a-4a2d-a2fa-943e2acf3815)
-
+## 查看文件
 ![截图_20240314102810](https://github.com/lihao0101/-Git/assets/44457060/d3a3db4a-4e78-4ea1-9b7a-a594290c16bc)
+## 上传文件
+![截图_20240314104950](https://github.com/lihao0101/-Git/assets/44457060/e3d5a3b0-2cd9-4df8-836c-b6fc4b94fad8)
 
 
 ## 实战操作
