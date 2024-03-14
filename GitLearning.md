@@ -28,6 +28,8 @@
 
 ![截图_20240314102456](https://github.com/lihao0101/-Git/assets/44457060/076ef9e6-e29a-4a2d-a2fa-943e2acf3815)
 
+![截图_20240314102810](https://github.com/lihao0101/-Git/assets/44457060/d3a3db4a-4e78-4ea1-9b7a-a594290c16bc)
+
 
 ## 实战操作
 这里不做解释，实践出现问题建议返回第五集
